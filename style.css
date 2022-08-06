@@ -1,0 +1,18 @@
+body{
+    color: rgb(0, 255, 170);
+    background-color: darkcyan;
+}
+.heading{
+    width: 80%; font-size: 22px;
+}
+.name_of_objects{
+color: aqua;
+}
+#camera{
+    border: 2px dashed rgba(13, 163, 133, 0.549);
+    width: 350;
+    height: 350;
+}
+.name_of_objects,#result_object_name, #resul_object_acurasy{
+    color: yellow;
+}
